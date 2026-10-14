@@ -1,0 +1,6 @@
+{
+  "name": "Stopwatch",
+  "description": "A stylish digital stopwatch application loading HTML, CSS, and JavaScript in an Android WebView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
